@@ -19,7 +19,7 @@ public class Summer {
             int num = scanner.nextInt();
             int endNum = startNum + num;
             startNum = endNum;
-            System.out.println("Those numbers summed together are: \n"+endNum);
+            System.out.println("Those numbers summed together are: \n" + endNum);
             isTrue =  (num !=0);
         }
     }

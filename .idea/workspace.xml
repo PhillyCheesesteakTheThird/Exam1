@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="277563eb-a3c9-4d39-86fe-30ce2a7d6241" name="Changes" comment="All done!">
-      <change afterPath="$PROJECT_DIR$/src/BeverageSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Summer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenMaker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Summer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Summer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TenMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TenMaker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695678797535</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All done!">
+      <option name="closed" value="true" />
+      <created>1695681223183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695681223183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
